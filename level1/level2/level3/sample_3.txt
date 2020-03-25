@@ -1,8 +1,0 @@
-OOP offers several benefits to both the program designer and the user.The principle advantages are:
-	 Through inheritance, we can eliminate redundant code and extend the user of existing classes.
-	We can build programs from the standard working modules that communicate with one another, rather than having to start writing the code from scratch. This leads to saving of development time and higher productivity. 
-	 The principle of data hiding helps the programmer to build secure programs that cannot be invaded by code in other parts of the program.
-	 Message passing techniques for communication between objects make the interface descriptions with external systems much simpler.
-	 Software complexity can be easily managed.
-	 It is possible to have multiple instances of an objects to co-exist without any interference. 
-1.6 Object-Oriented Languages

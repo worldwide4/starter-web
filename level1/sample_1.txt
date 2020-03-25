@@ -1,6 +1,0 @@
-   Some of the striking features of object-oriented programming are:
- 	 Programs are divided into what are known as objects.
- 	Functions that operate on the data of an object are tied together in the data structure.
- 	Data is hidden and cannot be accessed by external functions.
- 	Objects may communicate with each other through functions.
- 	 New data and functions can be easily added whenever necessary

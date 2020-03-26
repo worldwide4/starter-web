@@ -2,6 +2,9 @@ The major objective of Object-oriented approach is to remove some of the flaws e
 
 Modified file exist
 
+
+@#$$%%&(*%HDKHGDHYGF*#&&$*
+
 operate on it, and protects it from accidental modification from outside functions. OOP allows decomposition of a problem into a number of entities called objects and then builds data and functions around these objects. The organization of data and functions in object-oriented programs is shown in figure below. The data of an object can be accessed only by the functions associated with that object. However functions of one object can access the functions of other objects.ifheufh1387 nduifh 87489.
 
 

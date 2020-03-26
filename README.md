@@ -12,3 +12,5 @@ file one tow
 	new modify the latest things please contact
 	
 $some gone change
+
+$ some of people

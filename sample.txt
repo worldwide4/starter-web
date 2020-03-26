@@ -10,3 +10,7 @@ operate on it, and protects it from accidental modification from outside functio
 
 111111111111111111111111111111111111111111111111111111111111111111111111111
 222222222222222222222222222222222222222222222222222222222222222222222222222222
+
+
+
+pproach. OOP treats data as a critical element in the program development and does not allow it to flow freely around the system. It ties data more closely to the functions that operate on it, and protects it from accidental 

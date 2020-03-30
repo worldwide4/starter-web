@@ -1,3 +1,5 @@
 This is to compare the files 
 
 This is to compare between staged and working drectory
+
+compare in in github
